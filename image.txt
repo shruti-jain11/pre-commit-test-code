@@ -1,0 +1,2 @@
+image: "common-otel-collector"
+version: "0.104.0"
